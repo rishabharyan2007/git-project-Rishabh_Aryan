@@ -12,3 +12,8 @@ I am a student at uGSOT, currently learning Git and GitHub.
 ## Projects 
 - happy diwali: diwali is festival of lights
 - merry christmas: jingle bell jingle bell 
+
+## Social Links 
+- Github: https://github.com/rishabharyan2007
+- LinkedIn: www.linkedin.com/in/rishabh-aryan
+
