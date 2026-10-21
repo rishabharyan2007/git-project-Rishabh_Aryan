@@ -8,3 +8,7 @@ I am a student at uGSOT, currently learning Git and GitHub.
 - Communication
 - Problem Solving
 - Basic Git 
+
+## Projects 
+- happy diwali: diwali is festival of lights
+- merry christmas: jingle bell jingle bell 
