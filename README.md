@@ -15,3 +15,7 @@ I am a student at uGSOT, currently learning Git and GitHub.
 
 ## Contact 
 - Email: rishabharyan2007@gmail.com
+
+## Hobbies
+- I love to cook
+- I love to do problem solving
